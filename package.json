@@ -35,6 +35,6 @@
     "serializer.ts": "0.0.12",
     "typescript-collections": "^1.2.5",
     "ursa": "^0.9.4",
-    "uuid": "^3.1.0"
+    "uuid": "^14.0.0"
   }
 }
